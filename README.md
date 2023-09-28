@@ -62,7 +62,7 @@
   
   </br>
 
-  <!-- Known Frameworks Languages -->
+  <!-- Known Frameworks -->
   <div> 
    <h3>
      Frameworks
@@ -94,7 +94,8 @@
   </div>
 
   </br>
-
+  
+  <!-- Known Tools -->
   <div> 
    <h3>
      Tools
@@ -119,32 +120,35 @@
       <img alt="PostgreSQL Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/0bb3472a-3a27-45c6-b769-591aa549086d" height="40"/>
     </picture>
 
+
+  <!-- Technologies -->
+  <div> 
+   <h3>
+     Technologies
+   </h3>
+    <picture>
+      <img alt="Git Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/80f764d2-009f-43f9-956f-ac79d3faafa6" width="40"/>
+    </picture>
+    &nbsp;
+    <picture>
+      <img alt="Linux Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/62667666-247c-4dce-afa1-369fd58f8718" width="40"/>
+    </picture>
+    &nbsp;
+    <picture>
+      <img alt="XCode Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/1b35383a-2a82-476a-b03a-b571bf04b687" height="40"/>
+    </picture>
+    &nbsp;
+    <picture>
+      <img alt="Andriod Studio Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/dfcd3a19-150b-449b-923e-280f15e7da3e" height="40"/>
+    </picture>
+    &nbsp;
   </div>
 
+  <hr/>
+
+  <!-- Experience -->
 
 
   
-
-
-
-
-  
-<!--------------- END OF README --------------->
+<!--------------- END README --------------->
 </div>
-
-
-
-<!--
-**reyesenamorado97/reyesenamorado97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
