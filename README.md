@@ -147,9 +147,51 @@
   </div>
 
   <hr/>
-
+  
   <!-- Experience -->
+  <div> 
+    <h3>
+     Experience
+    </h3>
+  </div>
+  <!-- CodePath x Schmidt Futures -->
+  <div>
+    <picture>
+      <img alt="CodePath Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/69501fb3-a629-4278-8aa6-bd32f477dda2" width="50"/>
+    </picture>
+    &nbsp;
+    <picture>
+      <img alt="Schmidt Futures Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/ef978516-89ee-480d-b6cf-948daf7f55f2" height="50"/>
+    </picture>
+  </div>
 
+  <div>
+    <b>CodePath x Schmidt Futures</b><br>
+    <b>Remote | June 2022 - August 2022</b><br>
+    <b>Full Stack Software Engineer Intern | PostgresSQL, Express.js, Node.js, React</b><br>
+  </div>
+  • Completed 6 major projects and 2 labs per week to build PERN stack websites<br>
+  • Built servers and databases, employed RESTful APIs, and deployed websites using Surge and Heroku<br>
+  • Utilized NPM libraries such as Cron and Bcrpyt to facilitate frontend and backend development<br>
+
+  <br>
+  <br>
+  
+   <!-- CodePath iOS Development Course -->
+  <div>
+    <picture>
+      <img alt="CodePath Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/69501fb3-a629-4278-8aa6-bd32f477dda2" width="50"/>
+    </picture>
+  </div>
+
+  <div>
+    <b>CodePath iOS Development Course</b><br>
+    <b>Remote | January 2022 - May 2022</b><br>
+    <b>Swift, CocoaPods, Back4App</b><br>
+  </div>
+  • Acquired development skills for iOS application through Swift programming in a 10-week course<br>
+  • Learned vital iOS concepts such as passing data, UserDefaults, TableViews, ImageViews, and Tab Bar Navigation<br>
+  • Developed an original app that was a finalist for CodePath's iOS National Demo Day as a finalist<br>
 
   
 <!--------------- END README --------------->
