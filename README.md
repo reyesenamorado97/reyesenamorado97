@@ -193,6 +193,16 @@
   • Learned vital iOS concepts such as passing data, UserDefaults, TableViews, ImageViews, and Tab Bar Navigation<br>
   • Developed an original app that was a finalist for CodePath's iOS National Demo Day as a finalist<br>
 
+  <hr>
+
+  <!-- Projects 
+  <div> 
+    <h3>
+      Projects
+    </h3>
+  </div>
+
+  -->
   
 <!--------------- END README --------------->
 </div>
