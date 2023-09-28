@@ -17,10 +17,12 @@
 
   <!-- LinkedIn Link and Image -->
   <div align="center"> 
-    <a href="https://www.linkedin.com/in/robertreyes-enamorado/" target="_blank"> 
+    Connect with me:&nbsp;
+    <a href="https://www.linkedin.com/in/robertreyes-enamorado/" target="_blank">    
       <picture>
-        <img alt="LinkedIn Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/ac871912-faa1-4721-8702-e55aab1f34b0" width="40">
+        <img alt="LinkedIn Logo" src="https://github.com/reyesenamorado97/reyesenamorado97/assets/97928078/ac871912-faa1-4721-8702-e55aab1f34b0" height="20">
       </picture>
+        </div>
     </a>
   </div>
   
