@@ -168,7 +168,7 @@
   <div>
     <b>CodePath x Schmidt Futures</b><br>
     <b>Remote | June 2022 - August 2022</b><br>
-    <b>Full Stack Software Engineer Intern | PostgresSQL, Express.js, Node.js, React</b><br>
+    <b>Full Stack Software Engineer Intern | PostgreSQL, Express.js, Node.js, React</b><br>
   </div>
   • Completed 6 major projects and 2 labs per week to build PERN stack websites<br>
   • Built servers and databases, employed RESTful APIs, and deployed websites using Surge and Heroku<br>
